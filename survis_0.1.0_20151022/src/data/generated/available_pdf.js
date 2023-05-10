@@ -1,0 +1,1 @@
+define({availablePdf: ["guo2021deep","sharma2021dephnn","supakar2022deep","shoeibi2021automatic","khare2022hybrid","khare2021spwvd","bagherzadeh2022detection","shim2016machine","naira2019classification","shalbaf2020transfer"]});

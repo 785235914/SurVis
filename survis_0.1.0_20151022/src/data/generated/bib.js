@@ -1,0 +1,121 @@
+﻿define({ entries : {
+    "bagherzadeh2022detection": {
+        "abstract": "Detection of mental disorders such as schizophrenia (SZ) through investigating brain activities recorded via Electroencephalogram (EEG) signals is a promising field in neuroscience. This study presents a hybrid brain effective connectivity and deep learning framework for SZ detection on multichannel EEG signals...",
+        "author": "Bagherzadeh, Sara and Shahabi, Mohsen Sadat and Shalbaf, Ahmad",
+        "journal": "Computers in Biology and Medicine",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks, LSTM,Deep Learning",
+        "pages": "105570",
+        "publisher": "Elsevier",
+        "title": "Detection of schizophrenia using hybrid of deep learning and brain effective connectivity image from electroencephalogram signal",
+        "type": "article",
+        "volume": "146",
+        "year": "2022"
+    },
+    "guo2021deep": {
+        "abstract": "SSchizophrenia(SZ) is a disease of unknown etiology and pathogenesis and is ranked by the World Health Organization as one of the top ten diseases contributing to the global burden of disease. Studying the internal phys- iological differences between EEG of schizophrenia patients and normal individuals is important for diagnosing and treating schizophrenia in order to determine objective physiological diagnostic criteria...",
+        "author": "Guo, Zhifen and Wu, Lezhou and Li, Yun and Li, Beilin",
+        "booktitle": "2021 IEEE 10th Data Driven Control and Learning Systems Conference (DDCLS)",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks",
+        "organization": "IEEE",
+        "pages": "1322--1327",
+        "title": "Deep neural network classification of EEG data in schizophrenia",
+        "type": "inproceedings",
+        "year": "2021"
+    },
+    "khare2021spwvd": {
+        "abstract": "Schizophrenia (SZ) is a psychiatric disorder charac- terized by cognitive dysfunctions, hallucinations, and delusions, which may lead to lifetime disability. Detection and diagnosis of SZ by visual inspection is subjective, difficult, and time- consuming. Electroencephalogram (EEG) signals are widely used to detect the SZ as they reflect the conditions of the brain...",
+        "author": "Khare, Smith K and Bajaj, Varun and Acharya, U Rajendra",
+        "journal": "IEEE Transactions on Instrumentation and Measurement",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks,CNN,Deep Learning,LSTM",
+        "pages": "1--9",
+        "publisher": "IEEE",
+        "title": "SPWVD-CNN for automated detection of schizophrenia patients using EEG signals",
+        "type": "article",
+        "volume": "70",
+        "year": "2021"
+    },
+    "khare2022hybrid": {
+        "abstract": "Schizophrenia (SCZ) is a serious neurological condition in which people suffer with distorted perception of reality. SCZ may result in a combination of delusions, hallucinations, disordered thinking, and behavior. This causes permanent disability and hampers routine functioning. Trained neurologists use inter\u00ad viewing and visual inspection techniques for the detection and diagnosis of SCZ...",
+        "author": "Khare, Smith K and Bajaj, Varun",
+        "journal": "Computers in Biology and Medicine",
+        "keywords": "type: schizophrenia,signal processing, Machine Learning",
+        "pages": "105028",
+        "publisher": "Elsevier",
+        "title": "A hybrid decision support system for automatic detection of Schizophrenia using EEG signals",
+        "type": "article",
+        "volume": "141",
+        "year": "2022"
+    },
+    "naira2019classification": {
+        "abstract": "More than 21 million people worldwide suffer from schizophrenia. This serious mental disorder exposes people to stigmatization, discrimination, and violation of their human rights...",
+        "author": "Naira, Carlos Alberto Torres and Jos, Cristian and others",
+        "journal": "International Journal of Advanced Computer Science and Applications",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks,deep learning",
+        "number": "10",
+        "publisher": "Science and Information (SAI) Organization Limited",
+        "title": "Classification of people who suffer schizophrenia and healthy people by EEG signals using deep learning",
+        "type": "article",
+        "volume": "10",
+        "year": "2019"
+    },
+    "shalbaf2020transfer": {
+        "abstract": "Schizophrenia (SZ) is a severe disorder of the human brain which disturbs behavioral characteristics such as interruption in thinking, memory, perception, speech and other living activities. If the patient suffering from SZ is not diagnosed and treated in the early stages, damage to human behavioral abilities in its later stages could become more severe. Therefore, early discovery of SZ may help to cure or limit the effects. Electroencephalogram (EEG) is prominently used to study brain diseases such as SZ due to having high temporal resolution information, and being a noninvasive and inexpensive method...",
+        "author": "Shalbaf, Ahmad and Bagherzadeh, Sara and Maghsoudi, Arash",
+        "journal": "Physical and Engineering Sciences in Medicine",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks,Transfer learning,Machine Learning",
+        "pages": "1229--1239",
+        "publisher": "Springer",
+        "title": "Transfer learning with deep convolutional neural network for automated detection of schizophrenia from EEG signals",
+        "type": "article",
+        "volume": "43",
+        "year": "2020"
+    },
+    "sharma2021dephnn": {
+        "abstract": "Depression is a psychological disorder characterized by the continuous occurrence of bad mood state. It is critical to understand that this disorder is severely affecting people of multiple age groups across the world. This illness is now considered as a global issue and its early diagnosis will be effective in saving the lives of many people...",
+        "author": "Sharma, Geetanjali and Parashar, Abhishek and Joshi, Amit M",
+        "journal": "Biomedical signal processing and control",
+        "keywords": "type: Depression, signal processing, Neural Networks,Deep Learning,LSTM",
+        "pages": "102393",
+        "publisher": "Elsevier",
+        "title": "DepHNN: a novel hybrid neural network for electroencephalogram (EEG)-based screening of depression",
+        "type": "article",
+        "volume": "66",
+        "year": "2021"
+    },
+    "shim2016machine": {
+        "abstract": "Recently, an increasing number ofresearchers have endeavored to develop practical tools for diagnosing patients with schizophrenia usingmachine learning techniques applied to EEG biomarkers. Although a number ofstudies showed that source-level EEG features can potentially be applied to the differential diagnosis of schizophrenia, most studies have used only sensor-level EEG features such as ERP peak amplitude and power spectrum for machine learning-based diagnosis of schizophrenia...",
+        "author": "Shim, Miseon and Hwang, Han-Jeong and Kim, Do-Won and Lee, Seung-Hwan and Im, Chang-Hwan",
+        "journal": "Schizophrenia research",
+        "keywords": "type: schizophrenia,signal processing, Neural Network,Machine Learning",
+        "number": "2-3",
+        "pages": "314--319",
+        "publisher": "Elsevier",
+        "title": "Machine-learning-based diagnosis of schizophrenia using combined sensor-level and source-level EEG features",
+        "type": "article",
+        "volume": "176",
+        "year": "2016"
+    },
+    "shoeibi2021automatic": {
+        "abstract": "Schizophrenia (SZ) is a mental disorder whereby due to the secretion of specific chemicals in the brain, the function of some brain regions is out of balance, leading to the lack of coordination between thoughts, actions, and emotions. This study provides various intelligent deep learning (DL)-based methods for automated SZ diagnosis via electroencephalography (EEG) signals...",
+        "author": "Shoeibi, Afshin and Sadeghi, Delaram and Moridian, Parisa and Ghassemi, Navid and Heras, J{\\'o}nathan and Alizadehsani, Roohallah and Khadem, Ali and Kong, Yinan and Nahavandi, Saeid and Zhang, Yu-Dong and others",
+        "journal": "Frontiers in neuroinformatics",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks,LSTM",
+        "pages": "58",
+        "publisher": "Frontiers",
+        "title": "Automatic diagnosis of schizophrenia in EEG signals using CNN-LSTM models",
+        "type": "article",
+        "year": "2021"
+    },
+    "supakar2022deep": {
+        "abstract": "Normal life can be ensured for schizophrenic patients if diagnosed early. Electroencephalogram (EEG) carries information about the brain network connectivity which can be used to detect brain anomalies that are indicative of schizophrenia. Since deep learning is capable of automatically extracting the significant features and make classifications, the authors proposed a deep learning based model using RNN-LSTM to analyze the EEG signal data to diagnose schizophrenia...",
+        "author": "Bagherzadeh, Sara and Shahabi, Mohsen Sadat and Shalbaf, Ahmad Supakar, Rinku and Satvaya, Parthasarathi and Chakrabarti, Prasun",
+        "journal": "Computers in Biology and Medicine Computers in Biology and Medicine",
+        "keywords": "type: schizophrenia,signal processing, Neural Networks,LSTM,Deep Learning",
+        "pages": "106225",
+        "publisher": "Elsevier",
+        "title": "Detection of schizophrenia using hybrid of deep learning and brain effective connectivity image from electroencephalogram signal A deep learning based model using RNN-LSTM for the Detection of Schizophrenia from EEG data",
+        "type": "article",
+        "volume": "151",
+        "year": "2022"
+    }
+}});
